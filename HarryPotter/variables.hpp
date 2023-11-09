@@ -1,5 +1,7 @@
 #pragma once
 
+// Типы данных 
+
 #define aguamenti int
 #define avadaKedavra char
 #define aguamentiMinima short
@@ -8,4 +10,4 @@
 #define aguamentiMaximaMaxima long long
 #define aquamenti float
 #define expectoPatronum bool
-#define константа const
+#define scribblyforce const

@@ -128,15 +128,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="HarryPotter++.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array.hpp" />
     <ClInclude Include="console.hpp" />
     <ClInclude Include="control_structures.hpp" />
     <ClInclude Include="cycles.hpp" />
+    <ClInclude Include="escape.hpp" />
     <ClInclude Include="function.hpp" />
     <ClInclude Include="pointer.hpp" />
+    <ClInclude Include="rand.hpp" />
     <ClInclude Include="rest.hpp" />
     <ClInclude Include="string.hpp" />
     <ClInclude Include="struct.hpp" />

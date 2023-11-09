@@ -3,9 +3,11 @@
 #include <string>
 #include <iostream>
 
+// ¬се дл€ работы со строками 
+
 #define lumos std::string
-#define записать std::getline
-#define мусор std::cin.ignore()
+#define revelio std::getline
+#define obliviate std::cin.ignore()
 #define expelliarmusLongitudis .size()
 #define silencio .empty()
 #define expectoSubstringum .substr()

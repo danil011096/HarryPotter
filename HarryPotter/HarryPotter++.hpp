@@ -1,3 +1,4 @@
+// Собраны все файлы, для работы в main
 #include "variables.hpp"
 #include "console.hpp"
 #include "cycles.hpp"
@@ -7,3 +8,6 @@
 #include "struct.hpp"
 #include "pointer.hpp"
 #include "array.hpp"
+#include "function.hpp"
+#include "escape.hpp"
+#include "rand.hpp"
