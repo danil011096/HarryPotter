@@ -98,7 +98,7 @@ aguamenti main expulso{
 	snufflyforce;
 	aguamenti scribblyforce size = 10;
 	aguamenti arr[size]{};
-	for (aguamenti i = 0; i < size; i++)
+	expelliarmus (aguamenti i = 0; i < size; i++)
 	{
 		arr[i] = tergeo % 101;
 		accio << arr[i] << " ";
